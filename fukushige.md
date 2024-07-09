@@ -1,2 +1,2 @@
-名前: 福重
-スキル: HTML, CSS, JavaScript
+名前: Fukushige
+スキル: HTML, CSS, JavaScript, php
